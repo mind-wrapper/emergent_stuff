@@ -2,3 +2,4 @@ wolfram
 main.o
 .vscode/
 lib/
+/build/
